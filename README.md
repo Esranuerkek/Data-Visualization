@@ -178,7 +178,7 @@ print(normal_df.head())
 df["excellent quality"] = ["yes" if i >= 6 else "no" for i in df['quality']]
 
 ```
-**One-hot kodlama** , sonlu bir kümenin bir öğesinin o kümedeki dizinle temsil edildiği, yalnızca bir öğenin dizininin "1" olarak ayarlandığı ve diğer tüm öğelere aralık içindeki dizinlerin atandığı bir kodlama türüdür [ 0, n-1]. Her bitin 2 değeri (yani 0 ve 1) temsil edebildiği ikili kodlama şemalarının aksine, bu şema olası her durum için benzersiz bir değer atar
+- **One-hot kodlama** , sonlu bir kümenin bir öğesinin o kümedeki dizinle temsil edildiği, yalnızca bir öğenin dizininin "1" olarak ayarlandığı ve diğer tüm öğelere aralık içindeki dizinlerin atandığı bir kodlama türüdür [ 0, n-1]. Her bitin 2 değeri (yani 0 ve 1) temsil edebildiği ikili kodlama şemalarının aksine, bu şema olası her durum için benzersiz bir değer atar
 ```python
 #one hot-encoding
 df["excellent quality"] = pd.get_dummies(df["excellent quality"],drop_first=True)
@@ -187,6 +187,6 @@ df["excellent quality"][:5]
 ```
 
 
-**Kaynak**
+ - **Kaynak**
 [1] https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists
 [2]
