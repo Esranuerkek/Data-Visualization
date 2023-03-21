@@ -9,7 +9,7 @@ Veri görselleştirme, özellikle büyük verilerin daha kolay anlaşılabilmesi
 -  Bir hikaye anlatımı biçimidir: veri bilimcilerin verilerini anlamlandırmalarına ve başkalarıyla kolayca anlaşılır bir biçimde paylaşmalarına yardımcı olur. 
 -  Verileri görsel hale getirip estetik katılır ve bu sayede veriden daha hızlı sonuç çıkararılır.
 
-**Veri görselleştirmenin daha iyi anlaşılabilmesi için küçük bir projeye bakalım. Burada kırm beyaz şarabın kalitesini test edeceğiz ve ayrıca kimyasal özellikleri arasında korelasyon bulacağız.**
+**Veri görselleştirmenin daha iyi anlaşılabilmesi için küçük bir projeye bakalım. Beyaz şarabın kalitesini test edeceğiz ve ayrıca kimyasal özellikleri arasında korelasyon bulacağız.**
 
 ## Veri Seti
 Bu veri kümesi ilk olarak UCI Makine Öğrenimi Deposu tarafından kullanıma sunulmuştur (bağlantılar: https://archive.ics.uci.edu/ml/datasets/wine+quality ).  Veri seti, şarap hakkında farklı kimyasal bilgiler içerir.
