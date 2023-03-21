@@ -1,7 +1,18 @@
 # Data Visualization
 
+Veri görselleştirme, özellikle büyük verilerin daha kolay anlaşılabilmesi ve analiz edilebilmesi için  grafiksel olarak temsil etmenin bir yoludur [2]. Başka bir anlamda, çizelgeler, grafikler, animasyonlar, infografikler vb. kullanılarak verilerin görsel bir bağlama dönüştürülmesi olarak tanımlanabilir [3]. Verilerin eğilimlerini ve modellerini keşfetmeye yardımcı olur. Görselleştirme bilgiyi özetlemek için kullanılır [3].
+
+**Veri görselleştirme neden önemli?**
+
+-  Veri bilimcilerin karşılaştığı zorluk, ham verilerle karşılaşıldığında noktaları birleştirmenin her zaman mümkün olmamasıdır. Bu yüzden veri görselleştirme son derece önemlidir.
+-  Verilerinin en bilgilendirici yönlerini ortaya çıkarır.
+-  Bir hikaye anlatımı biçimidir: veri bilimcilerin verilerini anlamlandırmalarına ve başkalarıyla kolayca anlaşılır bir biçimde paylaşmalarına yardımcı olur. 
+-  Verileri görsel hale getirip estetik katılır ve bu sayede veriden daha hızlı sonuç çıkararılır.
+
+**Veri görselleştirmenin daha iyi anlaşılabilmesi için küçük bir projeye bakalım. Burada kırm beyaz şarabın kalitesini test edeceğiz ve ayrıca kimyasal özellikleri arasında korelasyon bulacağız.**
+
 ## Veri Seti
-Bu veri kümesi ilk olarak UCI Makine Öğrenimi Deposu tarafından kullanıma sunulmuştur (bağlantılar: https://archive.ics.uci.edu/ml/datasets/wine+quality ).
+Bu veri kümesi ilk olarak UCI Makine Öğrenimi Deposu tarafından kullanıma sunulmuştur (bağlantılar: https://archive.ics.uci.edu/ml/datasets/wine+quality ).  Veri seti, şarap hakkında farklı kimyasal bilgiler içerir.
 
 - Google Drive ile bağlantı kurulur
 ```python
@@ -187,6 +198,6 @@ df["excellent quality"][:5]
 ```
 
 
- - **Kaynak**
+##  Referanslar
 [1] https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists
 [2]
