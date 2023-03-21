@@ -199,5 +199,5 @@ df["excellent quality"][:5]
 
 
 ##  Referanslar
-[1] https://www.tableau.com/learn/articles/data-visualization
-/ [2] https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists
+- [1] https://www.tableau.com/learn/articles/data-visualization
+- [2] https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists
