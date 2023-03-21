@@ -1,6 +1,6 @@
 # Data Visualization
 
-Veri görselleştirme, özellikle büyük verilerin daha kolay anlaşılabilmesi ve analiz edilebilmesi için  grafiksel olarak temsil etmenin bir yoludur [2]. Başka bir anlamda, çizelgeler, grafikler, animasyonlar, infografikler vb. kullanılarak verilerin görsel bir bağlama dönüştürülmesi olarak tanımlanabilir [3]. Verilerin eğilimlerini ve modellerini keşfetmeye yardımcı olur. Görselleştirme bilgiyi özetlemek için kullanılır [3].
+Veri görselleştirme, özellikle büyük verilerin daha kolay anlaşılabilmesi ve analiz edilebilmesi için  grafiksel olarak temsil etmenin bir yoludur [1]. Başka bir anlamda, çizelgeler, grafikler, animasyonlar, infografikler vb. kullanılarak verilerin görsel bir bağlama dönüştürülmesi olarak tanımlanabilir [2]. Verilerin eğilimlerini ve modellerini keşfetmeye yardımcı olur. Görselleştirme bilgiyi özetlemek için kullanılır [2].
 
 **Veri görselleştirme neden önemli?**
 
@@ -199,5 +199,5 @@ df["excellent quality"][:5]
 
 
 ##  Referanslar
-[1] https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists
-[2]
+[1] https://www.tableau.com/learn/articles/data-visualization
+[2] https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists
